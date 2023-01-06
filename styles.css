@@ -1,2 +1,5 @@
-
 /* Your CSS Code here. */
+#text {
+	height: 100px;
+	background: blue;
+}
